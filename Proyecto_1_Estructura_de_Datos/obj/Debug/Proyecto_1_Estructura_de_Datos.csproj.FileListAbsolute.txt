@@ -1,0 +1,7 @@
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\obj\Debug\Proyecto_1_Estructura_de_Datos.csproj.AssemblyReference.cache
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\obj\Debug\Proyecto_1_Estructura_de_Datos.csproj.CoreCompileInputs.cache
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\bin\Debug\Proyecto_1_Estructura_de_Datos.exe.config
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\bin\Debug\Proyecto_1_Estructura_de_Datos.exe
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\bin\Debug\Proyecto_1_Estructura_de_Datos.pdb
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\obj\Debug\Proyecto_1_Estructura_de_Datos.exe
+C:\Users\David Alvarez\Desktop\Proyecto_1_Estructura_de_Datos\Proyecto_1_Estructura_de_Datos\obj\Debug\Proyecto_1_Estructura_de_Datos.pdb
